@@ -27,10 +27,7 @@ you dont know how much i crave dopamine
 
 
 anyways, that basically sums me up
-
 have fun with whatever this is
-
 make fun of me on social media
-
 cya :3
 
