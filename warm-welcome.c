@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-  printf("\nGet Out");
+  printf("Get Out\n");
   return 0;
 }
